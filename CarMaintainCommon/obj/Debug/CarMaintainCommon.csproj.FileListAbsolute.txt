@@ -1,0 +1,8 @@
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\bin\Debug\CarMaintainCommon.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\bin\Debug\CarMaintainCommon.pdb
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\bin\Debug\log4net.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\bin\Debug\Newtonsoft.Json.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\bin\Debug\SmartThreadPool.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\obj\Debug\CarMaintainCommon.csprojResolveAssemblyReference.cache
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\obj\Debug\CarMaintainCommon.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\obj\Debug\CarMaintainCommon.pdb

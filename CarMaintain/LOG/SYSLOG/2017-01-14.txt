@@ -1,0 +1,98 @@
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:24:20,958    
+【线程编号】[13]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:24:39,126    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:25:11,077    
+【线程编号】[13]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:25:11,177    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:25:39,184    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:25:42,699    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-14 17:27:28,240    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 参数化查询 '(@UCode nvarchar(4000))select * from tUserInfo where UCode=@UCod' 需要参数 '@UCode'，但未提供该参数。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 146
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfoByCode(String ucode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 22
+ClientConnectionId:2008e6e1-5869-41a6-896c-e1ddbb122f91
+Error Number:8178,State:1,Class:16

@@ -1,0 +1,5 @@
+D:\工作\CarMaintain\CarMaintain\CarMaintainModels\bin\Debug\CarMaintainModels.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainModels\bin\Debug\CarMaintainModels.pdb
+D:\工作\CarMaintain\CarMaintain\CarMaintainModels\obj\Debug\CarMaintainModels.csprojResolveAssemblyReference.cache
+D:\工作\CarMaintain\CarMaintain\CarMaintainModels\obj\Debug\CarMaintainModels.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainModels\obj\Debug\CarMaintainModels.pdb

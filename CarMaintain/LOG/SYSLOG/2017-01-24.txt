@@ -1,0 +1,26 @@
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-24 14:57:08,112    
+【线程编号】[31]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfosByCondition
+System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_DateTime()
+   在 System.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfosByCondition(String wheres, SqlParameter[] pms) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 76
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-24 14:59:25,086    
+【线程编号】[5]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfosByCondition
+System.Data.SqlTypes.SqlNullValueException: 数据为空。不能对 Null 值调用此方法或属性。
+   在 System.Data.SqlClient.SqlBuffer.get_DateTime()
+   在 System.Data.SqlClient.SqlDataReader.GetDateTime(Int32 i)
+   在 CarMaintainDAL.TUserInfoDAL.UGetUserInfosByCondition(String wheres, SqlParameter[] pms) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 76

@@ -1,0 +1,11 @@
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\obj\Debug\CarMaintainDAL.csprojResolveAssemblyReference.cache
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainDAL.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainDAL.pdb
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainCommon.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainModels.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\Newtonsoft.Json.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\log4net.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainCommon.pdb
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\bin\Debug\CarMaintainModels.pdb
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\obj\Debug\CarMaintainDAL.dll
+D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\obj\Debug\CarMaintainDAL.pdb

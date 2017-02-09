@@ -1,0 +1,11 @@
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-01-04 22:58:18,007    
+【线程编号】[7]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】ULogin
+System.Exception: TEST Exception
+   在 CarMaintain.Models.UserInfoController.ULogin() 位置 D:\工作\CarMaintain\CarMaintain\CarMaintain\Models\UserInfoController.cs:行号 37

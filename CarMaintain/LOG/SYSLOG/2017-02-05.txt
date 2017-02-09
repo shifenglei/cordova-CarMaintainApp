@@ -1,0 +1,144 @@
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 16:58:14,433    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 关键字 'IN' 附近有语法错误。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 198
+   在 CarMaintainDAL.TUserInfoDAL.UGetMaintainUsers(Int32 MaintainTypeID) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 120
+ClientConnectionId:bec548f2-7852-451b-b6d5-dea1ddd31a3f
+Error Number:156,State:1,Class:15
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 16:59:14,745    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddTask
+System.ArgumentNullException: 值不能为 null。
+参数名: source
+   在 System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value, IEqualityComparer`1 comparer)
+   在 System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value)
+   在 CarMaintainBLL.TTaskInfoBLL.AddTask(String carNo, String MaintainTypes, String technicians, String carName, String carOwner, String carOwnerTel1, String carOwnerTel2, String carTrevalDistance, String OprtUserCode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainBLL\TTaskInfoBLL.cs:行号 62
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 16:59:24,248    
+【线程编号】[7]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+System.Data.SqlClient.SqlException (0x80131904): 关键字 'IN' 附近有语法错误。
+   在 CarMaintainCommon.MsSqlHelper.ExecReader(String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 198
+   在 CarMaintainDAL.TUserInfoDAL.UGetMaintainUsers(Int32 MaintainTypeID) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 120
+ClientConnectionId:bec548f2-7852-451b-b6d5-dea1ddd31a3f
+Error Number:156,State:1,Class:15
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:02:03,031    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+SELECT UID FROM tUserGroup WHERE GID in (select GID from tGroupModuleJurisdiction where MID = @MID) 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CarMaintainDAL.TUserInfoDAL.UGetMaintainUsers(Int32 MaintainTypeID) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 124
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:02:44,547    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddTask
+System.ArgumentNullException: 值不能为 null。
+参数名: source
+   在 System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value, IEqualityComparer`1 comparer)
+   在 System.Linq.Enumerable.Contains[TSource](IEnumerable`1 source, TSource value)
+   在 CarMaintainBLL.TTaskInfoBLL.AddTask(String carNo, String MaintainTypes, String technicians, String carName, String carOwner, String carOwnerTel1, String carOwnerTel2, String carTrevalDistance, String OprtUserCode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainBLL\TTaskInfoBLL.cs:行号 62
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:10:17,078    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】UGetUserInfoByCode
+SELECT UID FROM tUserGroup WHERE GID in (select GID from tGroupModuleJurisdiction where MID = @MID) 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CarMaintainDAL.TUserInfoDAL.UGetMaintainUsers(Int32 MaintainTypeID) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TUserInfoDAL.cs:行号 124
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:10:32,942    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddTask
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 CarMaintainBLL.TTaskInfoBLL.AddTask(String carNo, String MaintainTypes, String technicians, String carName, String carOwner, String carOwnerTel1, String carOwnerTel2, String carTrevalDistance, String OprtUserCode) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainBLL\TTaskInfoBLL.cs:行号 62
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:11:48,211    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddCarInfo
+System.InvalidOperationException: 连接未关闭。 连接的当前状态为打开。
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 CarMaintainCommon.MsSqlHelper.ExecSql(SqlConnection con, String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 55
+   在 CarMaintainDAL.TCarInfoDAL.AddCarInfo(SqlConnection con, TCarInfo& ci) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TCarInfoDAL.cs:行号 32
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:11:48,261    
+【线程编号】[6]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddTask
+System.Exception: 添加车辆信息出错
+   在 CarMaintainDAL.TTaskInfoDAL.AddTask(TTaskInfo& ti, TCarInfo& ci) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TTaskInfoDAL.cs:行号 74
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:16:31,881    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddCarInfo
+System.InvalidOperationException: 如果分配给命令的连接位于本地挂起事务中，ExecuteNonQuery 要求命令拥有事务。命令的 Transaction 属性尚未初始化。
+   在 System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   在 System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean asyncWrite)
+   在 System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   在 CarMaintainCommon.MsSqlHelper.ExecSql(SqlConnection con, String sql, SqlParameter[] ps) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\MsSqlHelper.cs:行号 55
+   在 CarMaintainDAL.TCarInfoDAL.AddCarInfo(SqlConnection con, TCarInfo& ci) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TCarInfoDAL.cs:行号 32
+
+＝＝＝＝＝＝＝＝＝＝    
+【日志级别】ERROR    
+【记录时间】2017-02-05 17:16:31,934    
+【线程编号】[8]    
+【文件】D:\工作\CarMaintain\CarMaintain\CarMaintainCommon\LogHelper.cs    
+【行号】152    
+【类名】logerror 属性[(null)]    
+【描述】AddTask
+System.Exception: 添加车辆信息出错
+   在 CarMaintainDAL.TTaskInfoDAL.AddTask(TTaskInfo& ti, TCarInfo& ci) 位置 D:\工作\CarMaintain\CarMaintain\CarMaintainDAL\TTaskInfoDAL.cs:行号 74
